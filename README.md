@@ -27,7 +27,7 @@ In this lab, you will be using the molecular simulation code we wrote in Chem 28
 #### Zoha's Answers to the Notebook's instructions
 
 1. The energy per particle graph stabilizes around the 10 000's step, from a high energy per particle to 0 afterwards, which is steady.
-I think the RDF graph shows that our material is a gas.
+I think the RDF graph shows that our material is a gas.(After my presentation, it seems it is a liquid)
 
 3. With the second type of parameters, as we have less steps and a lesser frequency, we have a less smooth graph of the evolution of the energy per particles by the number of steps. The movement is quite similar, as in both cases we do have a strong decrease toward 0, but here we actually see that it happens in steps. It seems that there are some plateaus before reaching a stable level, but nothing says we did finish the process, or if we ended up at blocked at still a non-negligeable level of energy by step 1000.
 
